@@ -1,0 +1,2 @@
+# PythonPractices
+personal Python practices
